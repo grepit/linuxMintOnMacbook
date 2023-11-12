@@ -22,3 +22,9 @@ add control = Control_L
 add control = Control_R
 add mod4 = Super_L
 ```
+
+### comands to use
+1. upgrade apps
+```
+sudo apt update && sudo apt upgrade
+```
